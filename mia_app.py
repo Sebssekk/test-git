@@ -4,3 +4,6 @@ var = 2
 
 for o in range(3):
     print("boh")
+
+if True:
+    print(False)
