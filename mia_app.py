@@ -3,6 +3,8 @@ print("dgffdfaos")
 
 print("Modificato in test !!!!!!")
 
+print("MAIN")
+
 var = 2
 
 print("modificato dal master!!!!")
