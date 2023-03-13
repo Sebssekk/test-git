@@ -5,9 +5,9 @@ print("test")
 
 print("Modificato in test !!!!!!")
 
-print("MAIN")
+var = 10
 
-var = 2
+
 
 print("modificato dal master!!!!")
 
