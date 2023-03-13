@@ -1,4 +1,4 @@
-print("il fe mio codice sdgoas sgfiaso asdio hdspofuasp0 sduhagopd ")
+print("TESTil fe mio codice sdgoas sgfiaso asdio hdspofuasp0 sduhagopd ")
 print("dgffdfaos")
 
 print("Modificato in test !!!!!!")
@@ -10,3 +10,4 @@ for o in range(3):
 
 if True:
     print(False)
+    print(True)
