@@ -5,7 +5,7 @@ print("test")
 
 print("Modificato in test !!!!!!")
 
-var = 2
+var = 10
 
 for o in range(3):
     print("boh")
